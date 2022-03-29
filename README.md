@@ -1,5 +1,5 @@
 Hi I am Tom. I AM A BOY!!! >:(((
-More info - https://tom27.carrd.co/
+- More info - https://tom27.carrd.co/
 
 <!---
 KingcOugh27/KingcOugh27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
